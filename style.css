@@ -1,0 +1,129 @@
+body{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Montserrat', sans-serif;
+
+    height: 100vh;
+    background-color: #427D08;
+}
+
+.navbar a{
+    font-size: 20px;
+    font-weight: 600;
+    color: #284A0A;
+}
+
+.btn-download{
+  width: 136px;
+  height: 40px;
+  border: 1px solid #284A0A;
+  border-radius: 30px;
+  color: #284A0A;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8.5px);
+  box-shadow: 0 8px 32px 0 rgba(68, 0, 255, 0.2);
+}
+
+.bg-blur{
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8.5px);
+}
+
+.btn-download:hover{
+    color:#427D08;
+    background-color: #284A0A;
+}
+
+.heading1{
+    font-family: 'DM serif', serif;
+    font-size: 50px;
+    color: #284A0A;
+}
+
+.heading2{
+    font-family: 'DM serif', serif;
+    font-size: 30px;
+    color: #0EF225;
+    font-weight: 300;
+    margin-top: -15px;
+}
+
+.heading3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    color: #284A0A;
+    font-weight: 600;
+}
+
+.heading4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #284A0A;
+}
+
+.progress{
+    width: 290px;
+    height: 36px;
+    font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.progress p{
+    z-index: 10;
+    position: relative;
+}
+
+.design-progress1{
+    width: 230px;
+    height: 36px;
+    background-color: #36EE00;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.design-progress2{
+    width: 180px;
+    height: 36px;
+    background-color: #36EE00;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.design-progress3{
+    width: 150px;
+    height: 36px;
+    background-color: #36EE00;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.skill{
+    width: 285px;
+    height: 78px;
+    border-radius:10px;
+}
+
+.card{
+    width: 308px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.kemampuan{
+    font-size: 12px;
+    font-weight: 700;
+    width: 180px;
+    height: 60px;
+    padding: 16px 10px;
+    color: #284A0A;
+    border-radius: 30px;
+    border: 1px solid #284A0A;
+}
